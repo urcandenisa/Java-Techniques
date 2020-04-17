@@ -1,0 +1,9 @@
+[Bill] You have to pay...1, price 1, weight 1, containing 1
+
+1, price 1, weight 1, containing 1
+
+2, price 2, weight 2, containing 2
+
+1, price 1, weight 1, containing 1
+
+Total price:5

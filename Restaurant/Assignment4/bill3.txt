@@ -1,0 +1,4 @@
+[Bill] You have to pay...
+1, price 1, weight 1, containing -
+
+Total price:6
